@@ -4,7 +4,7 @@ import './App.css';
 function App() {
     const [isModalVisible, setIsModalVisible] = useState(true); // Show the modal initially
     const [selectedContent, setSelectedContent] = useState('Home');
-    const [selectedImage, setSelectedImage] = useState(null);
+
 
     const closeModal = () => {
         setIsModalVisible(false);
