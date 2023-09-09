@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dannynguyen-web/static/css/main.161ed265.css",
+    "main.js": "/dannynguyen-web/static/js/main.e11d75c5.js",
+    "static/js/787.af247f16.chunk.js": "/dannynguyen-web/static/js/787.af247f16.chunk.js",
+    "index.html": "/dannynguyen-web/index.html",
+    "main.161ed265.css.map": "/dannynguyen-web/static/css/main.161ed265.css.map",
+    "main.e11d75c5.js.map": "/dannynguyen-web/static/js/main.e11d75c5.js.map",
+    "787.af247f16.chunk.js.map": "/dannynguyen-web/static/js/787.af247f16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161ed265.css",
+    "static/js/main.e11d75c5.js"
+  ]
+}
